@@ -14,3 +14,4 @@ C:\Users\hcardo\Desktop\Test\SeleniumTest\obj\Debug\SeleniumTest.csproj.CoreComp
 C:\Users\hcardo\Desktop\Test\SeleniumTest\obj\Debug\SeleniumTest.csproj.CopyComplete
 C:\Users\hcardo\Desktop\Test\SeleniumTest\obj\Debug\SeleniumTest.exe
 C:\Users\hcardo\Desktop\Test\SeleniumTest\obj\Debug\SeleniumTest.pdb
+C:\Users\hcardo\Desktop\Test\SeleniumTest\obj\Debug\SeleniumTest.csprojAssemblyReference.cache

@@ -25,7 +25,7 @@ namespace SeleniumTest
         {
             
             
-
+            //test
             driver.Navigate().GoToUrl("https://www.facebook.com/");
             Thread.Sleep(3000);
             Login.EnterEmail("red_eyes_adrian@hotmail.com");
@@ -37,7 +37,7 @@ namespace SeleniumTest
             HomePagesgin.ClickMenu();
             Thread.Sleep(3000);
             HomePagesgin.ClickCloseSesion();
-            Thread.Sleep(3000);
+            //Thread.Sleep(3000);
 
         }
 

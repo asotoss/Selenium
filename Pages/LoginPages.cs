@@ -11,6 +11,8 @@ namespace SeleniumTest.Pages
 {
    public class LoginPages : DriverInit
     {
+        IWebDriver driver;
+
         public By email = By.Id("email");
 
         public By pasword = By.Name("pass");
@@ -18,6 +20,11 @@ namespace SeleniumTest.Pages
         public By loginButton = By.Id("u_0_b");
 
         public By Loginform = By.CssSelector("form[class='_featuredLogin__formContainer']");
+
+        public LoginPages(IWebDriver driver)
+        {
+            this.driver = driver;
+        }
 
 
 

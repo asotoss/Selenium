@@ -11,6 +11,5 @@ namespace SeleniumTest.Base
     {
         public IWebDriver driver { get; set; }
 
-
     }
 }
